@@ -1,5 +1,5 @@
 {
-    "name": "enqueue/sns",
+    "name": "mnk1985/sns",
     "type": "library",
     "description": "Message Queue Amazon SNS Transport",
     "keywords": ["messaging", "queue", "amazon", "aws", "sns"],
